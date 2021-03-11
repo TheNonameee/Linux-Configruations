@@ -1,0 +1,4 @@
+set -u fish_greeting
+
+alias poweroff="sudo shutdown -P now"
+alias hybernate="sudo zzz"
